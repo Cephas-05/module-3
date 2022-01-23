@@ -1,0 +1,17 @@
+@media (min-width: 720px) {
+  #food-content {
+    height: 700px;
+  }
+}
+
+@media (min-width: 540px) and (max-width: 719px) {
+  #food-content {
+    height: 500px;
+  }
+}
+
+@media (max-width: 539px) {
+  #food-content {
+    height: 300px;
+  }
+}
